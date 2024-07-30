@@ -1,0 +1,1 @@
+# Adroid-mini-project-pre-trained-model-Besides-ResNet-on-Animal-Images-Dataset
